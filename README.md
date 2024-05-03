@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything GRC
 - 📫 How to reach me: https://www.linkedin.com/in/elizabeth-vos-iv/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm not a russian spy, I promise!
+- ⚡ Fun fact: Though, I was born and raised in Russia, I'm not a russian spy, I promise!
 
 <!---
 elizabethvos/elizabethvos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
